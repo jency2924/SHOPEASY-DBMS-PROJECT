@@ -213,7 +213,9 @@ The Entity Relationship Analysis Report explains how the entities are connected 
 - Analyzed relationships and cardinality between entities.
 - Developed a strong foundation for ER Diagram creation, normalization, and SQL table design.
 
-## Conclusion
+
+
+##  Project Status
 ** Week 2 successfully completed ** 
 
 the Entity Analysis and Entity Relationship Analysis for the ShopEasy – E-Commerce Order Management Database System. The reports clearly define the database entities, attributes, keys, constraints, relationships, and cardinality required for the system. These deliverables serve as the foundation for the next phase of the project, including ER Diagram development, database normalization, and SQL implementation.
