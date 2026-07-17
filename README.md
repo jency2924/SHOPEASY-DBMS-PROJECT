@@ -219,3 +219,58 @@ The Entity Relationship Analysis Report explains how the entities are connected 
 ** Week 2 successfully completed ** 
 
 the Entity Analysis and Entity Relationship Analysis for the ShopEasy – E-Commerce Order Management Database System. The reports clearly define the database entities, attributes, keys, constraints, relationships, and cardinality required for the system. These deliverables serve as the foundation for the next phase of the project, including ER Diagram development, database normalization, and SQL implementation.
+
+
+
+## Project Title
+
+**Week 3 – Entity Relationship (ER) Diagram and Relational Schema Design**
+
+---
+
+## Objective
+
+The objective of Week 3 is to design the Entity Relationship (ER) Diagram for the E-Commerce Order Management Database System and convert the conceptual database model into a Relational Schema. This logical design serves as the foundation for implementing the database in the upcoming weeks.
+
+---
+
+## Description
+
+During this week, the following tasks were completed:
+
+- Designed the complete Entity Relationship (ER) Diagram.
+- Identified all entities and their attributes.
+- Specified Primary Keys (PK) and Foreign Keys (FK).
+- Defined relationships between entities.
+- Represented relationship cardinality (1:1, 1:M).
+- Included participation constraints where applicable.
+- Converted the ER model into a Relational Schema.
+- Verified that all relationships were correctly mapped into relational tables.
+- Prepared the ER Diagram Design Report and Relationship Mapping Report.
+
+---
+
+## Entities Included
+
+- Customer
+- Category
+- Supplier
+- Product
+- Order
+- Order Details
+- Payment
+- Shipment
+- Review
+
+---
+
+
+---
+
+## Outcome
+
+The ER Diagram and Relational Schema accurately represent the E-Commerce Order Management Database System by defining entities, relationships, primary keys, foreign keys, and constraints. This design ensures data integrity, reduces redundancy, and provides a solid structure for future database implementation.
+
+---
+
+##WEEK-3 SUCESFULLY COMPLETED
