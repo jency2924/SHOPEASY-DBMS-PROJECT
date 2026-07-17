@@ -222,9 +222,8 @@ the Entity Analysis and Entity Relationship Analysis for the ShopEasy – E-Comm
 
 
 
-## Project Title
 
-**Week 3 – Entity Relationship (ER) Diagram and Relational Schema Design**
+# Week 3 – Entity Relationship (ER) Diagram and Relational Schema Design**
 
 ---
 
